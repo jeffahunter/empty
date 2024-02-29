@@ -1,2 +1,3 @@
 # empty
-This is an empty repository
+
+This is an empty repository.
